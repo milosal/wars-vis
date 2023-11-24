@@ -2,6 +2,21 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+# Helper functions
+def process_date_range(date_range):
+    # Split the date range into start and end dates
+    if '–' in date_range:
+        start_date, end_date = date_range.split('–', 1)
+    elif '-' in date_range:
+        start_date, end_date = date_range.split('-', 1)
+    else:
+        # If there's no range, both start and end dates are the same
+        start_date = end_date = date_range
+
+    # Further processing can be added here if needed
+
+    return start_date.strip(), end_date.strip()
+
 # URL of the Wikipedia page
 url = 'https://en.wikipedia.org/wiki/List_of_wars_by_death_toll'
 
@@ -27,9 +42,13 @@ for table in tables:
             war_name = cols[0].get_text(strip=True)
             date_range = cols[2].get_text(strip=True)
             death_toll = cols[1].get_text(strip=True).split('[')[0]  # Remove citations
+
+            start_date, end_date = process_date_range(date_range)
+
             war_entry = {
                 "name": war_name,
-                "date_range": date_range,
+                "start_date": start_date,
+                "end_date": end_date,
                 "death_toll": death_toll
             }
             war_data.append(war_entry)
