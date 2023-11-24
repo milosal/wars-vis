@@ -1,0 +1,1184 @@
+[
+    {
+        "name": "Conquests of Cyrus the Great",
+        "start_date": "549 BC",
+        "end_date": "530 BC",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Greco\u2013Persian Wars",
+        "start_date": "499 BC",
+        "end_date": "449 BC",
+        "death_toll": "300,000+"
+    },
+    {
+        "name": "Chinese Warring States",
+        "start_date": "c. 475 BC",
+        "end_date": "221 BC",
+        "death_toll": "1,500,000+"
+    },
+    {
+        "name": "Samnite Wars",
+        "start_date": "343 BC",
+        "end_date": "290 BC",
+        "death_toll": "33,500+"
+    },
+    {
+        "name": "Wars of Alexander the Great",
+        "start_date": "336 BC",
+        "end_date": "323 BC",
+        "death_toll": "142,000+"
+    },
+    {
+        "name": "Punic Wars",
+        "start_date": "264 BC",
+        "end_date": "146 BC",
+        "death_toll": "1,620,000\u20131,920,000+"
+    },
+    {
+        "name": "First Punic War",
+        "start_date": "264 BC",
+        "end_date": "241 BC",
+        "death_toll": "400,000+"
+    },
+    {
+        "name": "Second Punic War",
+        "start_date": "218 BC",
+        "end_date": "201 BC",
+        "death_toll": "770,000+"
+    },
+    {
+        "name": "Third Punic War",
+        "start_date": "149 BC",
+        "end_date": "146 BC",
+        "death_toll": "450,000\u2013750,000+"
+    },
+    {
+        "name": "Qin's Wars of Unification",
+        "start_date": "230 BC",
+        "end_date": "221 BC",
+        "death_toll": "700,000+"
+    },
+    {
+        "name": "Cimbrian War",
+        "start_date": "113 BC",
+        "end_date": "101 BC",
+        "death_toll": "410,000\u2013650,000"
+    },
+    {
+        "name": "Roman civil wars fromSocial War (91\u201387 BC)toWar of Actium",
+        "start_date": "91 BC",
+        "end_date": "30 BC",
+        "death_toll": "3,000,000+"
+    },
+    {
+        "name": "Gallic Wars",
+        "start_date": "58 BC",
+        "end_date": "50 BC",
+        "death_toll": "1,000,000+"
+    },
+    {
+        "name": "Iceni Revolt",
+        "start_date": "60",
+        "end_date": "61",
+        "death_toll": "150,000+"
+    },
+    {
+        "name": "Jewish\u2013Roman Wars",
+        "start_date": "66",
+        "end_date": "136",
+        "death_toll": "1,270,000\u20132,000,000"
+    },
+    {
+        "name": "First Jewish\u2013Roman War",
+        "start_date": "66",
+        "end_date": "73",
+        "death_toll": "250,000\u20131,100,000"
+    },
+    {
+        "name": "Kitos War",
+        "start_date": "115",
+        "end_date": "117",
+        "death_toll": "440,000+"
+    },
+    {
+        "name": "Bar Kokhba Revolt",
+        "start_date": "132",
+        "end_date": "136",
+        "death_toll": "580,000"
+    },
+    {
+        "name": "Three Kingdoms War",
+        "start_date": "184",
+        "end_date": "280",
+        "death_toll": "36,000,000\u201340,000,000"
+    },
+    {
+        "name": "Yellow Turban Rebellion",
+        "start_date": "184",
+        "end_date": "205",
+        "death_toll": "3,000,000\u20137,000,000"
+    },
+    {
+        "name": "Wars of the Sixteen Kingdoms",
+        "start_date": "304",
+        "end_date": "439",
+        "death_toll": "150,000+"
+    },
+    {
+        "name": "Hunnic Reclaims",
+        "start_date": "395",
+        "end_date": "453",
+        "death_toll": "165,000+"
+    },
+    {
+        "name": "Arab\u2013Byzantine Wars",
+        "start_date": "629",
+        "end_date": "1050",
+        "death_toll": "2,000,000+"
+    },
+    {
+        "name": "Reconquista",
+        "start_date": "711",
+        "end_date": "1492",
+        "death_toll": "7,000,000"
+    },
+    {
+        "name": "Goguryeo\u2013Sui War",
+        "start_date": "598",
+        "end_date": "614",
+        "death_toll": "300,000+"
+    },
+    {
+        "name": "An Lushan Rebellion",
+        "start_date": "755",
+        "end_date": "763",
+        "death_toll": "13,000,000\u201336,000,000"
+    },
+    {
+        "name": "Goryeo\u2013Khitan Wars",
+        "start_date": "993",
+        "end_date": "1019",
+        "death_toll": "90,000+"
+    },
+    {
+        "name": "Song\u2013\u0110\u1ea1i Vi\u1ec7t war",
+        "start_date": "1075",
+        "end_date": "1077",
+        "death_toll": "600,000+"
+    },
+    {
+        "name": "Crusades",
+        "start_date": "1095",
+        "end_date": "1291",
+        "death_toll": "1,000,000\u20133,000,000"
+    },
+    {
+        "name": "Albigensian Crusade",
+        "start_date": "1208",
+        "end_date": "1229",
+        "death_toll": "200,000\u20131,000,000"
+    },
+    {
+        "name": "Mongol invasions and conquests",
+        "start_date": "1206",
+        "end_date": "1368",
+        "death_toll": "30,000,000\u201340,000,000"
+    },
+    {
+        "name": "Wars of Scottish Independence",
+        "start_date": "1296",
+        "end_date": "1357",
+        "death_toll": "60,000\u2013150,000"
+    },
+    {
+        "name": "Hundred Years' War",
+        "start_date": "1337",
+        "end_date": "1453",
+        "death_toll": "2,300,000\u20133,500,000"
+    },
+    {
+        "name": "Conquests of Timur",
+        "start_date": "1370",
+        "end_date": "1405",
+        "death_toll": "8,000,000\u201320,000,000"
+    },
+    {
+        "name": "Wars of the Roses",
+        "start_date": "1455",
+        "end_date": "1487",
+        "death_toll": "35,000\u2013105,000"
+    },
+    {
+        "name": "Mediterranean War",
+        "start_date": "1470",
+        "end_date": "1574",
+        "death_toll": "900,000\u20131,000,000"
+    },
+    {
+        "name": "Italian Wars",
+        "start_date": "1494",
+        "end_date": "1559",
+        "death_toll": "300,000\u2013400,000"
+    },
+    {
+        "name": "Spanish conquest of the Aztec Empire",
+        "start_date": "1519",
+        "end_date": "1632",
+        "death_toll": "24,300,000+"
+    },
+    {
+        "name": "Spanish conquest of Yucat\u00e1n",
+        "start_date": "1519",
+        "end_date": "1595",
+        "death_toll": "1,460,000+"
+    },
+    {
+        "name": "Spanish conquest of Nicaragua",
+        "start_date": "1522",
+        "end_date": "1536",
+        "death_toll": "575,000+"
+    },
+    {
+        "name": "Spanish conquest of the Inca Empire",
+        "start_date": "1533",
+        "end_date": "1572",
+        "death_toll": "8,400,000+"
+    },
+    {
+        "name": "Campaigns of Suleiman the Magnificent",
+        "start_date": "1521",
+        "end_date": "1566",
+        "death_toll": "200,000+"
+    },
+    {
+        "name": "German Peasants' War",
+        "start_date": "1524",
+        "end_date": "1525",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Arauco War",
+        "start_date": "1550",
+        "end_date": "1790",
+        "death_toll": "125,000\u2013142,000"
+    },
+    {
+        "name": "French Wars of Religion",
+        "start_date": "1562",
+        "end_date": "1598",
+        "death_toll": "2,000,000\u20134,000,000"
+    },
+    {
+        "name": "Eighty Years' War",
+        "start_date": "1568",
+        "end_date": "1648",
+        "death_toll": "600,000\u2013700,000"
+    },
+    {
+        "name": "Anglo-Spanish War (1585\u20131604)",
+        "start_date": "1585",
+        "end_date": "1604",
+        "death_toll": "106,285+"
+    },
+    {
+        "name": "Japanese invasions of Korea",
+        "start_date": "1592",
+        "end_date": "1598",
+        "death_toll": "1,000,000+"
+    },
+    {
+        "name": "Nine Years' War (Ireland)",
+        "start_date": "1593",
+        "end_date": "1603",
+        "death_toll": "130,000+"
+    },
+    {
+        "name": "Transition from Ming to Qing",
+        "start_date": "1616",
+        "end_date": "1683",
+        "death_toll": "25,000,000+"
+    },
+    {
+        "name": "Thirty Years' War",
+        "start_date": "1618",
+        "end_date": "1648",
+        "death_toll": "4,000,000\u201312,000,000"
+    },
+    {
+        "name": "Franco-Spanish War (1635\u20131659)",
+        "start_date": "1635",
+        "end_date": "1659",
+        "death_toll": "200,000+"
+    },
+    {
+        "name": "Wars of the Three Kingdoms",
+        "start_date": "1639",
+        "end_date": "1651",
+        "death_toll": "876,000+"
+    },
+    {
+        "name": "Portuguese Restoration War",
+        "start_date": "1640",
+        "end_date": "1668",
+        "death_toll": "80,000"
+    },
+    {
+        "name": "English Civil War",
+        "start_date": "1642",
+        "end_date": "1651",
+        "death_toll": "211,830+"
+    },
+    {
+        "name": "Fifth Ottoman\u2013Venetian War",
+        "start_date": "1645",
+        "end_date": "1669",
+        "death_toll": "72,000"
+    },
+    {
+        "name": "Deluge",
+        "start_date": "1655",
+        "end_date": "1660or1648-1667",
+        "death_toll": "3,000,000"
+    },
+    {
+        "name": "Mughal\u2013Maratha Wars",
+        "start_date": "1658",
+        "end_date": "1707",
+        "death_toll": "5,000,000+"
+    },
+    {
+        "name": "Franco-Dutch War",
+        "start_date": "1672",
+        "end_date": "1678",
+        "death_toll": "342,000"
+    },
+    {
+        "name": "Great Turkish War",
+        "start_date": "1683",
+        "end_date": "1699",
+        "death_toll": "380,000+"
+    },
+    {
+        "name": "Nine Years' War",
+        "start_date": "1688",
+        "end_date": "1697",
+        "death_toll": "680,000+"
+    },
+    {
+        "name": "Great Northern War",
+        "start_date": "1700",
+        "end_date": "1721",
+        "death_toll": "350,000+"
+    },
+    {
+        "name": "War of the Spanish Succession",
+        "start_date": "1701",
+        "end_date": "1714",
+        "death_toll": "400,000\u20131,250,000"
+    },
+    {
+        "name": "War of Jenkins' Ear",
+        "start_date": "1739",
+        "end_date": "1748",
+        "death_toll": "30,000+"
+    },
+    {
+        "name": "Maratha expeditions in Bengal",
+        "start_date": "1741",
+        "end_date": "1751",
+        "death_toll": "400,000+"
+    },
+    {
+        "name": "Seven Years' War",
+        "start_date": "1756",
+        "end_date": "1763",
+        "death_toll": "868,000\u20131,400,000"
+    },
+    {
+        "name": "Sino-Burmese War",
+        "start_date": "1765",
+        "end_date": "1769",
+        "death_toll": "70,000+"
+    },
+    {
+        "name": "T\u00e2y S\u01a1n rebellion",
+        "start_date": "1771",
+        "end_date": "1802",
+        "death_toll": "1,200,000\u20132,000,000+"
+    },
+    {
+        "name": "American Revolutionary War",
+        "start_date": "1775",
+        "end_date": "1783",
+        "death_toll": "70,000-116,000"
+    },
+    {
+        "name": "White Lotus Rebellion",
+        "start_date": "1794",
+        "end_date": "1804",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "French campaign in Egypt and Syria",
+        "start_date": "1798",
+        "end_date": "1801",
+        "death_toll": "65,000+"
+    },
+    {
+        "name": "Saint-Domingue expedition",
+        "start_date": "1802",
+        "end_date": "1803",
+        "death_toll": "135,000+"
+    },
+    {
+        "name": "Napoleonic Wars",
+        "start_date": "1803",
+        "end_date": "1815",
+        "death_toll": "3,500,000\u20137,000,000"
+    },
+    {
+        "name": "Peninsular War",
+        "start_date": "1808",
+        "end_date": "1814",
+        "death_toll": "1,000,000+"
+    },
+    {
+        "name": "Spanish American wars of independence",
+        "start_date": "1808",
+        "end_date": "1833",
+        "death_toll": "600,000+"
+    },
+    {
+        "name": "Venezuelan War of Independence",
+        "start_date": "1810",
+        "end_date": "1823",
+        "death_toll": "228,000+"
+    },
+    {
+        "name": "Mfecane",
+        "start_date": "1810s",
+        "end_date": "1840s",
+        "death_toll": "1,000,000\u20132,000,000"
+    },
+    {
+        "name": "French invasion of Russia",
+        "start_date": "1812",
+        "end_date": "1812",
+        "death_toll": "540,000+"
+    },
+    {
+        "name": "Carlist Wars",
+        "start_date": "1820",
+        "end_date": "1876",
+        "death_toll": "200,000+"
+    },
+    {
+        "name": "Greek War of Independence",
+        "start_date": "1821",
+        "end_date": "1831",
+        "death_toll": "170,000+"
+    },
+    {
+        "name": "French conquest of Algeria",
+        "start_date": "1830",
+        "end_date": "1903",
+        "death_toll": "595,665\u20131,095,665"
+    },
+    {
+        "name": "French colonial campaigns",
+        "start_date": "1830",
+        "end_date": "1895",
+        "death_toll": "110,000+"
+    },
+    {
+        "name": "Taiping Rebellion",
+        "start_date": "1850",
+        "end_date": "1864",
+        "death_toll": "20,000,000\u201370,000,000"
+    },
+    {
+        "name": "Crimean War",
+        "start_date": "1853",
+        "end_date": "1856",
+        "death_toll": "356,000\u2013615,000"
+    },
+    {
+        "name": "Red Turban Rebellion (1854\u20131856)",
+        "start_date": "1854",
+        "end_date": "1856",
+        "death_toll": "1,000,000+"
+    },
+    {
+        "name": "Miao Rebellion",
+        "start_date": "1854",
+        "end_date": "1873",
+        "death_toll": "4,900,000"
+    },
+    {
+        "name": "Punti\u2013Hakka Clan Wars",
+        "start_date": "1855",
+        "end_date": "1868",
+        "death_toll": "500,000\u20131,000,000+"
+    },
+    {
+        "name": "Panthay Rebellion",
+        "start_date": "1856",
+        "end_date": "1873",
+        "death_toll": "890,000\u20131,000,000"
+    },
+    {
+        "name": "Indian Rebellion of 1857",
+        "start_date": "1857",
+        "end_date": "1858",
+        "death_toll": "800,000\u20131,000,000"
+    },
+    {
+        "name": "American Civil War",
+        "start_date": "1861",
+        "end_date": "1865",
+        "death_toll": "650,000\u20131,000,000"
+    },
+    {
+        "name": "Dungan Revolt",
+        "start_date": "1862",
+        "end_date": "1877",
+        "death_toll": "8,000,000\u201320,000,000"
+    },
+    {
+        "name": "French intervention in Mexico",
+        "start_date": "1862",
+        "end_date": "1867",
+        "death_toll": "49,287+"
+    },
+    {
+        "name": "Paraguayan War",
+        "start_date": "1864",
+        "end_date": "1870",
+        "death_toll": "300,000\u20131,200,000"
+    },
+    {
+        "name": "Austro-Prussian War",
+        "start_date": "1866",
+        "end_date": "1866",
+        "death_toll": "40,000+"
+    },
+    {
+        "name": "Ten Years' War",
+        "start_date": "1868",
+        "end_date": "1878",
+        "death_toll": "241,000+"
+    },
+    {
+        "name": "Franco-Prussian War",
+        "start_date": "1870",
+        "end_date": "1871",
+        "death_toll": "433,571+"
+    },
+    {
+        "name": "Conquest of the Desert",
+        "start_date": "1870s",
+        "end_date": "1884",
+        "death_toll": "30,000\u201335,000"
+    },
+    {
+        "name": "Aceh War",
+        "start_date": "1873",
+        "end_date": "1914",
+        "death_toll": "97,000\u2013107,000"
+    },
+    {
+        "name": "First Sino\u2013Japanese War",
+        "start_date": "1894",
+        "end_date": "1895",
+        "death_toll": "48,311+"
+    },
+    {
+        "name": "Cuban War of Independence",
+        "start_date": "1895",
+        "end_date": "1898",
+        "death_toll": "362,000+"
+    },
+    {
+        "name": "War of Canudos",
+        "start_date": "1896",
+        "end_date": "1897",
+        "death_toll": "30,000+"
+    },
+    {
+        "name": "Thousand Days' War",
+        "start_date": "1899",
+        "end_date": "1902",
+        "death_toll": "120,000+"
+    },
+    {
+        "name": "Boxer Rebellion",
+        "start_date": "1899",
+        "end_date": "1901",
+        "death_toll": "100,000"
+    },
+    {
+        "name": "South African War (Second Boer War)",
+        "start_date": "1899",
+        "end_date": "1902",
+        "death_toll": "73,000\u201390,000"
+    },
+    {
+        "name": "Philippine\u2013American War",
+        "start_date": "1899",
+        "end_date": "1912",
+        "death_toll": "234,000+"
+    },
+    {
+        "name": "Russo-Japanese War",
+        "start_date": "1904",
+        "end_date": "1905",
+        "death_toll": "101,300\u2013206,100"
+    },
+    {
+        "name": "Mexican Revolution",
+        "start_date": "1910",
+        "end_date": "1920",
+        "death_toll": "1,000,000\u20133,500,000"
+    },
+    {
+        "name": "1911 Revolution",
+        "start_date": "1911",
+        "end_date": "1911",
+        "death_toll": "220,000"
+    },
+    {
+        "name": "Balkan Wars",
+        "start_date": "1912",
+        "end_date": "1913",
+        "death_toll": "140,000+"
+    },
+    {
+        "name": "World War I",
+        "start_date": "1914",
+        "end_date": "1918",
+        "death_toll": "17,000,000 (excluding theSpanish flu)"
+    },
+    {
+        "name": "Russian Civil War",
+        "start_date": "1917",
+        "end_date": "1922",
+        "death_toll": "5,000,000\u20139,000,000"
+    },
+    {
+        "name": "Kurdish separatism in Iran",
+        "start_date": "1918",
+        "end_date": "present",
+        "death_toll": "15,000\u201358,000"
+    },
+    {
+        "name": "Iraqi\u2013Kurdish conflict",
+        "start_date": "1918",
+        "end_date": "2003",
+        "death_toll": "138,800\u2013320,100"
+    },
+    {
+        "name": "Rif War",
+        "start_date": "1921",
+        "end_date": "1926",
+        "death_toll": "90,000"
+    },
+    {
+        "name": "Kurdish\u2013Turkish conflict",
+        "start_date": "1921",
+        "end_date": "present",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Second Italo-Senussi War",
+        "start_date": "1923",
+        "end_date": "1932",
+        "death_toll": "40,000+"
+    },
+    {
+        "name": "Chinese Civil War",
+        "start_date": "1927",
+        "end_date": "1949",
+        "death_toll": "8,000,000\u201311,692,000"
+    },
+    {
+        "name": "Chaco War",
+        "start_date": "1932",
+        "end_date": "1935",
+        "death_toll": "85,000\u2013130,000"
+    },
+    {
+        "name": "Second Italo\u2013Ethiopian War",
+        "start_date": "1935",
+        "end_date": "1936",
+        "death_toll": "278,000+"
+    },
+    {
+        "name": "Spanish Civil War",
+        "start_date": "1936",
+        "end_date": "1939",
+        "death_toll": "500,000\u20131,000,000"
+    },
+    {
+        "name": "Second Sino-Japanese War",
+        "start_date": "1937",
+        "end_date": "1945",
+        "death_toll": "20,000,000\u201325,000,000"
+    },
+    {
+        "name": "World War II",
+        "start_date": "1939",
+        "end_date": "1945",
+        "death_toll": "80,000,000"
+    },
+    {
+        "name": "Winter War",
+        "start_date": "1939",
+        "end_date": "1940",
+        "death_toll": "153,736\u2013194,837"
+    },
+    {
+        "name": "Greco-Italian War",
+        "start_date": "1940",
+        "end_date": "1941",
+        "death_toll": "27,000+"
+    },
+    {
+        "name": "Continuation War",
+        "start_date": "1941",
+        "end_date": "1944",
+        "death_toll": "387,300+"
+    },
+    {
+        "name": "Soviet\u2013Japanese War",
+        "start_date": "1945",
+        "end_date": "1945",
+        "death_toll": "33,420\u201395,768"
+    },
+    {
+        "name": "First Indochina War",
+        "start_date": "1946",
+        "end_date": "1954",
+        "death_toll": "400,000+"
+    },
+    {
+        "name": "Partition of India",
+        "start_date": "1946",
+        "end_date": "1948",
+        "death_toll": "200,000\u20132,000,000"
+    },
+    {
+        "name": "Greek Civil War",
+        "start_date": "1946",
+        "end_date": "1949",
+        "death_toll": "158,000+"
+    },
+    {
+        "name": "Kashmir conflict",
+        "start_date": "1947",
+        "end_date": "present",
+        "death_toll": "80,000\u2013110,000"
+    },
+    {
+        "name": "La Violencia",
+        "start_date": "1948",
+        "end_date": "1958",
+        "death_toll": "192,700\u2013194,700"
+    },
+    {
+        "name": "Internal conflict in Myanmar",
+        "start_date": "1948",
+        "end_date": "present",
+        "death_toll": "130,000\u2013250,000"
+    },
+    {
+        "name": "Arab\u2013Israeli conflict",
+        "start_date": "1948",
+        "end_date": "present",
+        "death_toll": "116,074+"
+    },
+    {
+        "name": "Annexation of Hyderabad",
+        "start_date": "1948",
+        "end_date": "1948",
+        "death_toll": "29,000\u2013242,000"
+    },
+    {
+        "name": "Korean War",
+        "start_date": "1950",
+        "end_date": "1953",
+        "death_toll": "1,500,000\u20134,500,000"
+    },
+    {
+        "name": "Algerian War",
+        "start_date": "1954",
+        "end_date": "1962",
+        "death_toll": "400,000\u20131,500,000"
+    },
+    {
+        "name": "Ethnic conflict in Nagaland",
+        "start_date": "1954",
+        "end_date": "present",
+        "death_toll": "34,000+"
+    },
+    {
+        "name": "Vietnam War",
+        "start_date": "1955",
+        "end_date": "1975",
+        "death_toll": "1,300,000\u20134,300,000"
+    },
+    {
+        "name": "First Sudanese Civil War",
+        "start_date": "1955",
+        "end_date": "1972",
+        "death_toll": "500,000+"
+    },
+    {
+        "name": "Congo Crisis",
+        "start_date": "1960",
+        "end_date": "1965",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Angolan War of Independence",
+        "start_date": "1961",
+        "end_date": "1974",
+        "death_toll": "83,000\u2013103,000"
+    },
+    {
+        "name": "North Yemen Civil War",
+        "start_date": "1962",
+        "end_date": "1970",
+        "death_toll": "100,000\u2013200,000"
+    },
+    {
+        "name": "Mozambican War of Independence",
+        "start_date": "1964",
+        "end_date": "1974",
+        "death_toll": "63,500\u201388,500"
+    },
+    {
+        "name": "Insurgency in Northeast India",
+        "start_date": "1964",
+        "end_date": "present",
+        "death_toll": "25,000+"
+    },
+    {
+        "name": "Colombian conflict",
+        "start_date": "1964",
+        "end_date": "present",
+        "death_toll": "220,000+"
+    },
+    {
+        "name": "Nigerian Civil War",
+        "start_date": "1967",
+        "end_date": "1970",
+        "death_toll": "1,000,000\u20133,000,000"
+    },
+    {
+        "name": "Moro conflict",
+        "start_date": "1969",
+        "end_date": "2019",
+        "death_toll": "120,000+"
+    },
+    {
+        "name": "Communist rebellion in the Philippines",
+        "start_date": "1969",
+        "end_date": "present",
+        "death_toll": "30,000\u201343,000"
+    },
+    {
+        "name": "Bangladesh Liberation War",
+        "start_date": "1971",
+        "end_date": "1971",
+        "death_toll": "400,000\u20133,600,000+"
+    },
+    {
+        "name": "Ethiopian Civil War",
+        "start_date": "1974",
+        "end_date": "1991",
+        "death_toll": "500,000\u20131,500,000"
+    },
+    {
+        "name": "Angolan Civil War",
+        "start_date": "1975",
+        "end_date": "2002",
+        "death_toll": "504,158+"
+    },
+    {
+        "name": "South African invasion of Angola",
+        "start_date": "1975",
+        "end_date": "1976",
+        "death_toll": "50,000+"
+    },
+    {
+        "name": "Indonesian invasion of East Timor",
+        "start_date": "1975",
+        "end_date": "1976",
+        "death_toll": "100,000-200,000"
+    },
+    {
+        "name": "Lebanese Civil War",
+        "start_date": "1975",
+        "end_date": "1990",
+        "death_toll": "120,000\u2013150,000"
+    },
+    {
+        "name": "Insurgency in Laos",
+        "start_date": "1975",
+        "end_date": "2007",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Ogaden War",
+        "start_date": "1977",
+        "end_date": "1978",
+        "death_toll": "60,000"
+    },
+    {
+        "name": "Afghanistan conflict",
+        "start_date": "1978",
+        "end_date": "present",
+        "death_toll": "1,400,000\u20132,500,000"
+    },
+    {
+        "name": "Kurdish\u2013Turkish conflict",
+        "start_date": "1978",
+        "end_date": "present",
+        "death_toll": "45,000+"
+    },
+    {
+        "name": "Soviet\u2013Afghan War",
+        "start_date": "1979",
+        "end_date": "1989",
+        "death_toll": "600,000\u20132,000,000"
+    },
+    {
+        "name": "Salvadoran Civil War",
+        "start_date": "1979",
+        "end_date": "1992",
+        "death_toll": "70,000\u201380,000"
+    },
+    {
+        "name": "Iran\u2013Iraq War",
+        "start_date": "1980",
+        "end_date": "1988",
+        "death_toll": "500,000-1,500,000"
+    },
+    {
+        "name": "Internal conflict in Peru",
+        "start_date": "1980",
+        "end_date": "present",
+        "death_toll": "70,000+"
+    },
+    {
+        "name": "Ugandan Bush War",
+        "start_date": "1981",
+        "end_date": "1986",
+        "death_toll": "100,000\u2013500,000"
+    },
+    {
+        "name": "Second Sudanese Civil War",
+        "start_date": "1983",
+        "end_date": "2005",
+        "death_toll": "1,000,000\u20132,000,000"
+    },
+    {
+        "name": "Sri Lankan Civil War",
+        "start_date": "1983",
+        "end_date": "2009",
+        "death_toll": "80,000\u2013100,000"
+    },
+    {
+        "name": "Somali Civil War",
+        "start_date": "1986",
+        "end_date": "present",
+        "death_toll": "300,000\u2013500,000"
+    },
+    {
+        "name": "Lord's Resistance Army insurgency",
+        "start_date": "1987",
+        "end_date": "present",
+        "death_toll": "100,000\u2013500,000"
+    },
+    {
+        "name": "Nagorno-Karabakh conflict",
+        "start_date": "1988",
+        "end_date": "present",
+        "death_toll": "50,000+"
+    },
+    {
+        "name": "Gulf War",
+        "start_date": "1990",
+        "end_date": "1991",
+        "death_toll": "25,500\u201340,500"
+    },
+    {
+        "name": "Rwandan Civil War",
+        "start_date": "1990",
+        "end_date": "1994",
+        "death_toll": "500,000\u2013807,500"
+    },
+    {
+        "name": "Algerian Civil War",
+        "start_date": "1991",
+        "end_date": "2002",
+        "death_toll": "44,000\u2013200,000"
+    },
+    {
+        "name": "Bosnian War",
+        "start_date": "1991",
+        "end_date": "1995",
+        "death_toll": "97,000\u2013105,000"
+    },
+    {
+        "name": "1991 Iraqi uprisings",
+        "start_date": "1991",
+        "end_date": "1991",
+        "death_toll": "85,000\u2013235,000"
+    },
+    {
+        "name": "Eritrean\u2013Ethiopian War",
+        "start_date": "1998",
+        "end_date": "2000",
+        "death_toll": "70,000\u2013300,000"
+    },
+    {
+        "name": "Sierra Leone Civil War",
+        "start_date": "1991",
+        "end_date": "2002",
+        "death_toll": "50,000\u2013300,000"
+    },
+    {
+        "name": "Burundian Civil War",
+        "start_date": "1993",
+        "end_date": "2005",
+        "death_toll": "300,000+"
+    },
+    {
+        "name": "First Congo War",
+        "start_date": "1996",
+        "end_date": "1997",
+        "death_toll": "250,000\u2013800,000"
+    },
+    {
+        "name": "Second Congo War",
+        "start_date": "1998",
+        "end_date": "2003",
+        "death_toll": "2,500,000\u20135,400,000"
+    },
+    {
+        "name": "Ituri conflict",
+        "start_date": "1999",
+        "end_date": "2003",
+        "death_toll": "60,000+"
+    },
+    {
+        "name": "War on terror",
+        "start_date": "2001",
+        "end_date": "2021",
+        "death_toll": "272,000\u20131,260,000"
+    },
+    {
+        "name": "War in Afghanistan (2001\u20132021)",
+        "start_date": "2001",
+        "end_date": "2021",
+        "death_toll": "212,191+"
+    },
+    {
+        "name": "Insurgency in the Maghreb",
+        "start_date": "2002",
+        "end_date": "present",
+        "death_toll": "54,000+"
+    },
+    {
+        "name": "Iraq War",
+        "start_date": "2003",
+        "end_date": "2011",
+        "death_toll": "405,000\u2013654,965"
+    },
+    {
+        "name": "War in Darfur",
+        "start_date": "2003",
+        "end_date": "present",
+        "death_toll": "300,000+"
+    },
+    {
+        "name": "Kivu Conflict",
+        "start_date": "2004",
+        "end_date": "present",
+        "death_toll": "100,000+"
+    },
+    {
+        "name": "Insurgency in Khyber Pakhtunkhwa",
+        "start_date": "2004",
+        "end_date": "2017",
+        "death_toll": "46,872\u201379,000"
+    },
+    {
+        "name": "Mexican drug war",
+        "start_date": "2006",
+        "end_date": "present",
+        "death_toll": "200,000\u2013400,000+"
+    },
+    {
+        "name": "Boko Haram insurgency",
+        "start_date": "2009",
+        "end_date": "present",
+        "death_toll": "350,000+"
+    },
+    {
+        "name": "Libyan crisis",
+        "start_date": "2011",
+        "end_date": "present",
+        "death_toll": "30,000\u201343,000"
+    },
+    {
+        "name": "Syrian civil war",
+        "start_date": "2011",
+        "end_date": "present",
+        "death_toll": "503,000\u2013613,000+"
+    },
+    {
+        "name": "Rojava\u2013Islamist conflict",
+        "start_date": "2013",
+        "end_date": "present",
+        "death_toll": "50,000+"
+    },
+    {
+        "name": "South Sudanese Civil War",
+        "start_date": "2013",
+        "end_date": "2020",
+        "death_toll": "383,000+"
+    },
+    {
+        "name": "War in Iraq (2013\u20132017)",
+        "start_date": "2013",
+        "end_date": "2017",
+        "death_toll": "195,000\u2013200,000+"
+    },
+    {
+        "name": "Yemeni Civil War",
+        "start_date": "2014",
+        "end_date": "present",
+        "death_toll": "377,000+"
+    },
+    {
+        "name": "Tigray War",
+        "start_date": "2020",
+        "end_date": "2022",
+        "death_toll": "162,000\u2013378,000+ (Includingfaminevictims, perGhent University)"
+    },
+    {
+        "name": "Myanmar Civil War",
+        "start_date": "2021",
+        "end_date": "present",
+        "death_toll": "41,959"
+    },
+    {
+        "name": "Russian invasion of Ukraine",
+        "start_date": "2022",
+        "end_date": "present",
+        "death_toll": "300,000+"
+    }
+]
