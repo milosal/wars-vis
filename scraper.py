@@ -4,19 +4,6 @@ import json
 
 # Helper functions
 def process_date_range(date_range):
-    base_year = -3000  # Representing 3000 BC
-
-    def convert_to_years_past_base(date):
-        date = date.strip()
-        if 'BC' in date or 'B.C.' in date:
-            # Remove the BC/B.C. part and convert
-            year = int(date.replace('BC', '').replace('B.C.', '').strip())
-            return base_year - year
-        else:
-            # Convert AD date
-            year = int(date)
-            return year - base_year
-
     # Split the date range into start and end dates
     if '–' in date_range:
         start_date, end_date = date_range.split('–', 1)
@@ -26,12 +13,10 @@ def process_date_range(date_range):
         # If there's no range, both start and end dates are the same
         start_date = end_date = date_range
 
-    # Convert dates to 'years past 3000 BC'
-    start_date = convert_to_years_past_base(start_date)
-    end_date = convert_to_years_past_base(end_date)
+    # Further processing can be added here if needed
 
-    return start_date, end_date
-
+    return start_date.strip(), end_date.strip()
+    
 
 
 
